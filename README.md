@@ -1,14 +1,5 @@
 # TrabajoPersonal_AlmudenaManzanal
----
-title: "TrabajoPersonal"
-author: "Almudena Manzanal"
-date: "24/1/2022"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ## Introducción
 ### Analizando dataset nycflights13:: flights 
 Vamos a analizar el siguiente dataset sobre vuelos de US y responder a una serie de preguntas.
